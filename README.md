@@ -5,6 +5,6 @@
 - Baseado na aula e no projeto do mentor [Andre Soares](https://github.com/soaresderik).
 
 # Minhas Modificações:
-- Alterações em fonte, ícone e formas;
-- Inclusão de links das páginas oficiais em toda interface;
-- Inclusão de carrosel na imagem do celular.
+- Atualização de Layout;
+- Máscara em entrada de dados e ação de Edição;
+- Ação de Saída com cálculo de preço.
